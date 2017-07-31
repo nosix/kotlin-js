@@ -1,4 +1,4 @@
-group 'org.musyozoku'
+group 'com.example'
 version '1.0-SNAPSHOT'
 
 buildscript {

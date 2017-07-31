@@ -20,8 +20,8 @@ repositories {
 
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-js:$kotlin_version"
-    compile "org.musyozoku:sample:1.0-SNAPSHOT"
-//    compile 'org.musyozoku:sample:1.0-SNAPSHOT' // error!
+    compile "com.example:sample:1.0-SNAPSHOT"
+//    compile 'com.example:sample:1.0-SNAPSHOT' // error!
     compile 'org.webjars:requirejs:2.3.3'
 //    compile 'org.webjars:vue:2.1.3'
 }

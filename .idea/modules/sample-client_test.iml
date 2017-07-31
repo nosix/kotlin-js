@@ -36,7 +36,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="sample-client_main" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.1.3-2" level="project" />
-    <orderEntry type="library" name="Gradle: org.musyozoku:sample:1.0-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="Gradle: com.example:sample:1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: org.webjars:requirejs:2.3.3" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="sample-client_main" />
