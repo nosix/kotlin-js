@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>Plain Sample</title>
+</head>
+<body>
+
+<div id="example">{{ message }}</div>
+
+<script src="https://cdn.jsdelivr.net/lodash/4.17.4/lodash.js"></script>
+<script>lodash = _</script>
+<script src="build/js/vue.js"></script>
+<script src="build/js/kotlin.js"></script>
+<script src="build/js/sample.js"></script>
+<script src="build/js/sample-client.js"></script>
+<script>
+    this["sample-client"].run();
+</script>
+
+</body>
+</html>

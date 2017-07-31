@@ -37,5 +37,6 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-js:1.1.3-2" level="project" />
     <orderEntry type="library" name="Gradle: com.example:sample:1.0-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: org.webjars:requirejs:2.3.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.webjars:vue:2.1.3" level="project" />
   </component>
 </module>
